@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UNhsqHv4XRirURFsf2vSvbg0XC3WqPMe/M52h5WLnH1Ov7F3RtDjGNVN4bbPHVd8ois9gmEVrYgmcICxwBjvcA==",
+  "success": true,
+  "projectFilePath": "/home/devasc/labs/devnet-src/C# API/NetCoreAPI/NetCoreAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/devasc/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/devasc/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/devasc/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/devasc/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/devasc/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/devasc/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
